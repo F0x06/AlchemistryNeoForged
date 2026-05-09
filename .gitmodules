@@ -1,0 +1,8 @@
+[submodule "deps/AlchemyLib"]
+	path = deps/AlchemyLib
+	url = git@github.com:F0x06/AlchemyLibNeoForged.git
+	branch = 1.21.1
+[submodule "deps/ChemLib"]
+	path = deps/ChemLib
+	url = git@github.com:F0x06/ChemLibNeoForged.git
+	branch = 1.21.1
